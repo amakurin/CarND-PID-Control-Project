@@ -1,5 +1,6 @@
 #ifndef PID_H
 #define PID_H
+#include <vector>
 
 class PID {
 public:
@@ -13,14 +14,19 @@ public:
   /*
   * Coefficients
   */ 
-  double Kp;
-  double Ki;
-  double Kd;
+  std::vector<double> gains;
+
+  /*
+  * Correction limits
+  */ 
+ double min_correction;
+  double max_correction;
+
 
   /*
   * Constructor
   */
-  PID();
+  PID(std::vector<double> gains, double min_correction, double max_correction);
 
   /*
   * Destructor.
@@ -28,19 +34,17 @@ public:
   virtual ~PID();
 
   /*
-  * Initialize PID.
-  */
-  void Init(double Kp, double Ki, double Kd);
-
-  /*
   * Update the PID error variables given cross track error.
   */
   void UpdateError(double cte);
 
   /*
-  * Calculate the total PID error.
+  * Calculate the total PID correction.
   */
-  double TotalError();
+  double Correction();
+
+private:
+  bool _initialized;
 };
 
 #endif /* PID_H */

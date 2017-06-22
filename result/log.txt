@@ -1,0 +1,6442 @@
+Connected!!!
+==========================
+completing iteration 0
+total_error = 12120.9
+best_total_error = 0
+max_error = 17.7485
+best_max_error = 0
+current_parameter = -1
+addition_case = 0
+--------------------------
+Diffs: 0.04 0.0001 0.5 
+GAINS: 0.1 0 1.5 
+---------NEW VALS---------
+best_total_error = 12120.9
+best_max_error = 17.7485
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.5401
+NEW GAINS: 0.14 0 1.5 
+==========================
+==========================
+completing iteration 1
+total_error = 12122.3
+best_total_error = 12120.9
+max_error = 11.857
+best_max_error = 17.7485
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.04 0.0001 0.5 
+GAINS: 0.14 0 1.5 
+---------NEW VALS---------
+best_total_error = 12120.9
+best_max_error = 17.7485
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.5401
+NEW GAINS: 0.06 0 1.5 
+==========================
+==========================
+completing iteration 2
+total_error = 12123.6
+best_total_error = 12120.9
+max_error = 24.0394
+best_max_error = 17.7485
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.036 0.0001 0.5 
+GAINS: 0.1 0 1.5 
+---------NEW VALS---------
+best_total_error = 12120.9
+best_max_error = 17.7485
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.5361
+NEW GAINS: 0.1 0.0001 1.5 
+==========================
+==========================
+completing iteration 3
+total_error = 12130
+best_total_error = 12120.9
+max_error = 17.1048
+best_max_error = 17.7485
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.036 0.0001 0.5 
+GAINS: 0.1 0.0001 1.5 
+---------NEW VALS---------
+best_total_error = 12120.9
+best_max_error = 17.7485
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.5361
+NEW GAINS: 0.1 -0.0001 1.5 
+==========================
+==========================
+completing iteration 4
+total_error = 12129.3
+best_total_error = 12120.9
+max_error = 19.4455
+best_max_error = 17.7485
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.036 9e-05 0.5 
+GAINS: 0.1 0 1.5 
+---------NEW VALS---------
+best_total_error = 12120.9
+best_max_error = 17.7485
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.53609
+NEW GAINS: 0.1 0 2 
+==========================
+==========================
+completing iteration 5
+total_error = 12013.4
+best_total_error = 12120.9
+max_error = 13.8235
+best_max_error = 17.7485
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.036 9e-05 0.55 
+GAINS: 0.1 0 2 
+---------NEW VALS---------
+best_total_error = 12013.4
+best_max_error = 13.8235
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.58609
+NEW GAINS: 0.136 0 2 
+==========================
+==========================
+completing iteration 6
+total_error = 8323.99
+best_total_error = 12013.4
+max_error = 11.332
+best_max_error = 13.8235
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0396 9e-05 0.55 
+GAINS: 0.136 0 2 
+---------NEW VALS---------
+best_total_error = 8323.99
+best_max_error = 11.332
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.58969
+NEW GAINS: 0.136 9e-05 2 
+==========================
+==========================
+completing iteration 7
+total_error = 8327.37
+best_total_error = 8323.99
+max_error = 11.1176
+best_max_error = 11.332
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0396 9e-05 0.55 
+GAINS: 0.136 9e-05 2 
+---------NEW VALS---------
+best_total_error = 8323.99
+best_max_error = 11.332
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.58969
+NEW GAINS: 0.136 -9e-05 2 
+==========================
+==========================
+completing iteration 8
+total_error = 8324.06
+best_total_error = 8323.99
+max_error = 9.08178
+best_max_error = 11.332
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0396 8.1e-05 0.55 
+GAINS: 0.136 0 2 
+---------NEW VALS---------
+best_total_error = 8323.99
+best_max_error = 11.332
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.589681
+NEW GAINS: 0.136 0 2.55 
+==========================
+==========================
+completing iteration 9
+total_error = 6663.14
+best_total_error = 8323.99
+max_error = 8.72789
+best_max_error = 11.332
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0396 8.1e-05 0.605 
+GAINS: 0.136 0 2.55 
+---------NEW VALS---------
+best_total_error = 6663.14
+best_max_error = 8.72789
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.644681
+NEW GAINS: 0.1756 0 2.55 
+==========================
+==========================
+completing iteration 10
+total_error = 6269.05
+best_total_error = 6663.14
+max_error = 6.56897
+best_max_error = 8.72789
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.04356 8.1e-05 0.605 
+GAINS: 0.1756 0 2.55 
+---------NEW VALS---------
+best_total_error = 6269.05
+best_max_error = 6.56897
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.648641
+NEW GAINS: 0.1756 8.1e-05 2.55 
+==========================
+==========================
+completing iteration 11
+total_error = 6270.42
+best_total_error = 6269.05
+max_error = 6.36351
+best_max_error = 6.56897
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.04356 8.1e-05 0.605 
+GAINS: 0.1756 8.1e-05 2.55 
+---------NEW VALS---------
+best_total_error = 6269.05
+best_max_error = 6.56897
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.648641
+NEW GAINS: 0.1756 -8.1e-05 2.55 
+==========================
+==========================
+completing iteration 12
+total_error = 6271.6
+best_total_error = 6269.05
+max_error = 8.87682
+best_max_error = 6.56897
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.04356 7.29e-05 0.605 
+GAINS: 0.1756 0 2.55 
+---------NEW VALS---------
+best_total_error = 6269.05
+best_max_error = 6.56897
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.648633
+NEW GAINS: 0.1756 0 3.155 
+==========================
+==========================
+completing iteration 13
+total_error = 4614.64
+best_total_error = 6269.05
+max_error = 6.48619
+best_max_error = 6.56897
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.04356 7.29e-05 0.6655 
+GAINS: 0.1756 0 3.155 
+---------NEW VALS---------
+best_total_error = 4614.64
+best_max_error = 6.48619
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.709133
+NEW GAINS: 0.21916 0 3.155 
+==========================
+==========================
+completing iteration 14
+total_error = 4615.44
+best_total_error = 4614.64
+max_error = 7.86073
+best_max_error = 6.48619
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.04356 7.29e-05 0.6655 
+GAINS: 0.21916 0 3.155 
+---------NEW VALS---------
+best_total_error = 4614.64
+best_max_error = 6.48619
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.709133
+NEW GAINS: 0.13204 0 3.155 
+==========================
+==========================
+completing iteration 15
+total_error = 4615.57
+best_total_error = 4614.64
+max_error = 7.01932
+best_max_error = 6.48619
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.039204 7.29e-05 0.6655 
+GAINS: 0.1756 0 3.155 
+---------NEW VALS---------
+best_total_error = 4614.64
+best_max_error = 6.48619
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.704777
+NEW GAINS: 0.1756 7.29e-05 3.155 
+==========================
+==========================
+completing iteration 16
+total_error = 4575.34
+best_total_error = 4614.64
+max_error = 6.50301
+best_max_error = 6.48619
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.039204 8.019e-05 0.6655 
+GAINS: 0.1756 7.29e-05 3.155 
+---------NEW VALS---------
+best_total_error = 4575.34
+best_max_error = 6.50301
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.704784
+NEW GAINS: 0.1756 7.29e-05 3.8205 
+==========================
+==========================
+completing iteration 17
+total_error = 3333.29
+best_total_error = 4575.34
+max_error = 4.968
+best_max_error = 6.50301
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.039204 8.019e-05 0.73205 
+GAINS: 0.1756 7.29e-05 3.8205 
+---------NEW VALS---------
+best_total_error = 3333.29
+best_max_error = 4.968
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.771334
+NEW GAINS: 0.214804 7.29e-05 3.8205 
+==========================
+==========================
+completing iteration 18
+total_error = 2150.11
+best_total_error = 3333.29
+max_error = 7.4846
+best_max_error = 4.968
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.039204 8.019e-05 0.73205 
+GAINS: 0.214804 7.29e-05 3.8205 
+---------NEW VALS---------
+best_total_error = 3333.29
+best_max_error = 4.968
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.771334
+NEW GAINS: 0.136396 7.29e-05 3.8205 
+==========================
+==========================
+completing iteration 19
+total_error = 3338.16
+best_total_error = 3333.29
+max_error = 5.25739
+best_max_error = 4.968
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0352836 8.019e-05 0.73205 
+GAINS: 0.1756 7.29e-05 3.8205 
+---------NEW VALS---------
+best_total_error = 3333.29
+best_max_error = 4.968
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.767414
+NEW GAINS: 0.1756 0.00015309 3.8205 
+==========================
+==========================
+completing iteration 20
+total_error = 3333.44
+best_total_error = 3333.29
+max_error = 4.77641
+best_max_error = 4.968
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0352836 8.019e-05 0.73205 
+GAINS: 0.1756 0.00015309 3.8205 
+---------NEW VALS---------
+best_total_error = 3333.29
+best_max_error = 4.968
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.767414
+NEW GAINS: 0.1756 -7.29e-06 3.8205 
+==========================
+==========================
+completing iteration 21
+total_error = 3333.39
+best_total_error = 3333.29
+max_error = 5.28862
+best_max_error = 4.968
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0352836 7.2171e-05 0.73205 
+GAINS: 0.1756 7.29e-05 3.8205 
+---------NEW VALS---------
+best_total_error = 3333.29
+best_max_error = 4.968
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.767406
+NEW GAINS: 0.1756 7.29e-05 4.55255 
+==========================
+==========================
+completing iteration 22
+total_error = 3155.08
+best_total_error = 3333.29
+max_error = 4.73628
+best_max_error = 4.968
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0352836 7.2171e-05 0.805255 
+GAINS: 0.1756 7.29e-05 4.55255 
+---------NEW VALS---------
+best_total_error = 3155.08
+best_max_error = 4.73628
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.840611
+NEW GAINS: 0.210884 7.29e-05 4.55255 
+==========================
+==========================
+completing iteration 23
+total_error = 2537.23
+best_total_error = 3155.08
+max_error = 6.69671
+best_max_error = 4.73628
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.038812 7.2171e-05 0.805255 
+GAINS: 0.210884 7.29e-05 4.55255 
+---------NEW VALS---------
+best_total_error = 2537.23
+best_max_error = 6.69671
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.844139
+NEW GAINS: 0.210884 0.000145071 4.55255 
+==========================
+==========================
+completing iteration 24
+total_error = 2537.49
+best_total_error = 2537.23
+max_error = 8.35615
+best_max_error = 6.69671
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.038812 7.2171e-05 0.805255 
+GAINS: 0.210884 0.000145071 4.55255 
+---------NEW VALS---------
+best_total_error = 2537.23
+best_max_error = 6.69671
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.844139
+NEW GAINS: 0.210884 7.29e-07 4.55255 
+==========================
+==========================
+completing iteration 25
+total_error = 2537.52
+best_total_error = 2537.23
+max_error = 6.07672
+best_max_error = 6.69671
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.038812 6.49539e-05 0.805255 
+GAINS: 0.210884 7.29e-05 4.55255 
+---------NEW VALS---------
+best_total_error = 2537.23
+best_max_error = 6.69671
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.844132
+NEW GAINS: 0.210884 7.29e-05 5.35781 
+==========================
+==========================
+completing iteration 26
+total_error = 2450.95
+best_total_error = 2537.23
+max_error = 6.00054
+best_max_error = 6.69671
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.038812 6.49539e-05 0.885781 
+GAINS: 0.210884 7.29e-05 5.35781 
+---------NEW VALS---------
+best_total_error = 2450.95
+best_max_error = 6.00054
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.924657
+NEW GAINS: 0.249696 7.29e-05 5.35781 
+==========================
+==========================
+completing iteration 27
+total_error = 2451.1
+best_total_error = 2450.95
+max_error = 7.52405
+best_max_error = 6.00054
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.038812 6.49539e-05 0.885781 
+GAINS: 0.249696 7.29e-05 5.35781 
+---------NEW VALS---------
+best_total_error = 2450.95
+best_max_error = 6.00054
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.924657
+NEW GAINS: 0.172072 7.29e-05 5.35781 
+==========================
+==========================
+completing iteration 28
+total_error = 2452.69
+best_total_error = 2450.95
+max_error = 7.18454
+best_max_error = 6.00054
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0349308 6.49539e-05 0.885781 
+GAINS: 0.210884 7.29e-05 5.35781 
+---------NEW VALS---------
+best_total_error = 2450.95
+best_max_error = 6.00054
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.920776
+NEW GAINS: 0.210884 0.000137854 5.35781 
+==========================
+==========================
+completing iteration 29
+total_error = 2413.87
+best_total_error = 2450.95
+max_error = 7.71895
+best_max_error = 6.00054
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0349308 7.14493e-05 0.885781 
+GAINS: 0.210884 0.000137854 5.35781 
+---------NEW VALS---------
+best_total_error = 2413.87
+best_max_error = 7.71895
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.920783
+NEW GAINS: 0.210884 0.000137854 6.24359 
+==========================
+==========================
+completing iteration 30
+total_error = 2414.58
+best_total_error = 2413.87
+max_error = 9.72005
+best_max_error = 7.71895
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0349308 7.14493e-05 0.885781 
+GAINS: 0.210884 0.000137854 6.24359 
+---------NEW VALS---------
+best_total_error = 2413.87
+best_max_error = 7.71895
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.920783
+NEW GAINS: 0.210884 0.000137854 4.47202 
+==========================
+==========================
+completing iteration 31
+total_error = 2414.07
+best_total_error = 2413.87
+max_error = 6.44906
+best_max_error = 7.71895
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0349308 7.14493e-05 0.797202 
+GAINS: 0.210884 0.000137854 5.35781 
+---------NEW VALS---------
+best_total_error = 2413.87
+best_max_error = 7.71895
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.832205
+NEW GAINS: 0.245814 0.000137854 5.35781 
+==========================
+==========================
+completing iteration 32
+total_error = 2414.29
+best_total_error = 2413.87
+max_error = 6.86492
+best_max_error = 7.71895
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0349308 7.14493e-05 0.797202 
+GAINS: 0.245814 0.000137854 5.35781 
+---------NEW VALS---------
+best_total_error = 2413.87
+best_max_error = 7.71895
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.832205
+NEW GAINS: 0.175953 0.000137854 5.35781 
+==========================
+==========================
+completing iteration 33
+total_error = 2416.72
+best_total_error = 2413.87
+max_error = 6.95377
+best_max_error = 7.71895
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0314377 7.14493e-05 0.797202 
+GAINS: 0.210884 0.000137854 5.35781 
+---------NEW VALS---------
+best_total_error = 2413.87
+best_max_error = 7.71895
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.828712
+NEW GAINS: 0.210884 0.000209303 5.35781 
+==========================
+==========================
+completing iteration 34
+total_error = 2409.65
+best_total_error = 2413.87
+max_error = 6.34586
+best_max_error = 7.71895
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0314377 7.85942e-05 0.797202 
+GAINS: 0.210884 0.000209303 5.35781 
+---------NEW VALS---------
+best_total_error = 2409.65
+best_max_error = 6.34586
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.828719
+NEW GAINS: 0.210884 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 35
+total_error = 2332.7
+best_total_error = 2409.65
+max_error = 8.16531
+best_max_error = 6.34586
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0314377 7.85942e-05 0.876923 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.908439
+NEW GAINS: 0.242321 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 36
+total_error = 2225.34
+best_total_error = 2332.7
+max_error = 12.4567
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0314377 7.85942e-05 0.876923 
+GAINS: 0.242321 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.908439
+NEW GAINS: 0.179446 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 37
+total_error = 1296.18
+best_total_error = 2332.7
+max_error = 12.4729
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0282939 7.85942e-05 0.876923 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.905295
+NEW GAINS: 0.210884 0.000287897 6.15501 
+==========================
+==========================
+completing iteration 38
+total_error = 2332.72
+best_total_error = 2332.7
+max_error = 9.88662
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0282939 7.85942e-05 0.876923 
+GAINS: 0.210884 0.000287897 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.905295
+NEW GAINS: 0.210884 0.000130709 6.15501 
+==========================
+==========================
+completing iteration 39
+total_error = 2334.41
+best_total_error = 2332.7
+max_error = 10.249
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0282939 7.07348e-05 0.876923 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.905287
+NEW GAINS: 0.210884 0.000209303 7.03193 
+==========================
+==========================
+completing iteration 40
+total_error = 2334.11
+best_total_error = 2332.7
+max_error = 7.44744
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0282939 7.07348e-05 0.876923 
+GAINS: 0.210884 0.000209303 7.03193 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.905287
+NEW GAINS: 0.210884 0.000209303 5.27808 
+==========================
+==========================
+completing iteration 41
+total_error = 2332.77
+best_total_error = 2332.7
+max_error = 6.98175
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0282939 7.07348e-05 0.78923 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.817595
+NEW GAINS: 0.239178 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 42
+total_error = 2334.43
+best_total_error = 2332.7
+max_error = 10.744
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0282939 7.07348e-05 0.78923 
+GAINS: 0.239178 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.817595
+NEW GAINS: 0.18259 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 43
+total_error = 2334.11
+best_total_error = 2332.7
+max_error = 9.04746
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0254645 7.07348e-05 0.78923 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.814766
+NEW GAINS: 0.210884 0.000280038 6.15501 
+==========================
+==========================
+completing iteration 44
+total_error = 2333.59
+best_total_error = 2332.7
+max_error = 8.38971
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0254645 7.07348e-05 0.78923 
+GAINS: 0.210884 0.000280038 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.814766
+NEW GAINS: 0.210884 0.000138568 6.15501 
+==========================
+==========================
+completing iteration 45
+total_error = 2335.48
+best_total_error = 2332.7
+max_error = 8.41522
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0254645 6.36613e-05 0.78923 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.814759
+NEW GAINS: 0.210884 0.000209303 6.94424 
+==========================
+==========================
+completing iteration 46
+total_error = 2222.03
+best_total_error = 2332.7
+max_error = 12.3215
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0254645 6.36613e-05 0.78923 
+GAINS: 0.210884 0.000209303 6.94424 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.814759
+NEW GAINS: 0.210884 0.000209303 5.36578 
+==========================
+==========================
+completing iteration 47
+total_error = 2333.15
+best_total_error = 2332.7
+max_error = 6.2585
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0254645 6.36613e-05 0.710307 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.735836
+NEW GAINS: 0.236348 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 48
+total_error = 2332.95
+best_total_error = 2332.7
+max_error = 8.62714
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0254645 6.36613e-05 0.710307 
+GAINS: 0.236348 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.735836
+NEW GAINS: 0.185419 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 49
+total_error = 2333.53
+best_total_error = 2332.7
+max_error = 7.57185
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0229181 6.36613e-05 0.710307 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.733289
+NEW GAINS: 0.210884 0.000272965 6.15501 
+==========================
+==========================
+completing iteration 50
+total_error = 2342.46
+best_total_error = 2332.7
+max_error = 9.88474
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0229181 6.36613e-05 0.710307 
+GAINS: 0.210884 0.000272965 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.733289
+NEW GAINS: 0.210884 0.000145642 6.15501 
+==========================
+==========================
+completing iteration 51
+total_error = 2335.13
+best_total_error = 2332.7
+max_error = 8.09403
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0229181 5.72952e-05 0.710307 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.733283
+NEW GAINS: 0.210884 0.000209303 6.86531 
+==========================
+==========================
+completing iteration 52
+total_error = 2337.76
+best_total_error = 2332.7
+max_error = 9.41937
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0229181 5.72952e-05 0.710307 
+GAINS: 0.210884 0.000209303 6.86531 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.733283
+NEW GAINS: 0.210884 0.000209303 5.4447 
+==========================
+==========================
+completing iteration 53
+total_error = 2333.14
+best_total_error = 2332.7
+max_error = 6.5936
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0229181 5.72952e-05 0.639277 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.662252
+NEW GAINS: 0.233802 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 54
+total_error = 2332.77
+best_total_error = 2332.7
+max_error = 8.98141
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0229181 5.72952e-05 0.639277 
+GAINS: 0.233802 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.662252
+NEW GAINS: 0.187966 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 55
+total_error = 2334.1
+best_total_error = 2332.7
+max_error = 8.36019
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0206263 5.72952e-05 0.639277 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.65996
+NEW GAINS: 0.210884 0.000266598 6.15501 
+==========================
+==========================
+completing iteration 56
+total_error = 2332.83
+best_total_error = 2332.7
+max_error = 9.94267
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0206263 5.72952e-05 0.639277 
+GAINS: 0.210884 0.000266598 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.65996
+NEW GAINS: 0.210884 0.000152008 6.15501 
+==========================
+==========================
+completing iteration 57
+total_error = 2336.8
+best_total_error = 2332.7
+max_error = 10.1767
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0206263 5.15657e-05 0.639277 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.659954
+NEW GAINS: 0.210884 0.000209303 6.79428 
+==========================
+==========================
+completing iteration 58
+total_error = 2337.47
+best_total_error = 2332.7
+max_error = 7.91803
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0206263 5.15657e-05 0.639277 
+GAINS: 0.210884 0.000209303 6.79428 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.659954
+NEW GAINS: 0.210884 0.000209303 5.51573 
+==========================
+==========================
+completing iteration 59
+total_error = 2333.18
+best_total_error = 2332.7
+max_error = 7.0278
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0206263 5.15657e-05 0.575349 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.596027
+NEW GAINS: 0.23151 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 60
+total_error = 2332.94
+best_total_error = 2332.7
+max_error = 8.47509
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0206263 5.15657e-05 0.575349 
+GAINS: 0.23151 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.596027
+NEW GAINS: 0.190257 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 61
+total_error = 2339.86
+best_total_error = 2332.7
+max_error = 8.31861
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0185636 5.15657e-05 0.575349 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.593964
+NEW GAINS: 0.210884 0.000260869 6.15501 
+==========================
+==========================
+completing iteration 62
+total_error = 2334.84
+best_total_error = 2332.7
+max_error = 9.89606
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0185636 5.15657e-05 0.575349 
+GAINS: 0.210884 0.000260869 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.593964
+NEW GAINS: 0.210884 0.000157738 6.15501 
+==========================
+==========================
+completing iteration 63
+total_error = 2333.3
+best_total_error = 2332.7
+max_error = 7.49938
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0185636 4.64091e-05 0.575349 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.593959
+NEW GAINS: 0.210884 0.000209303 6.73036 
+==========================
+==========================
+completing iteration 64
+total_error = 2333.14
+best_total_error = 2332.7
+max_error = 10.2368
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0185636 4.64091e-05 0.575349 
+GAINS: 0.210884 0.000209303 6.73036 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.593959
+NEW GAINS: 0.210884 0.000209303 5.57966 
+==========================
+==========================
+completing iteration 65
+total_error = 2332.92
+best_total_error = 2332.7
+max_error = 6.63114
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0185636 4.64091e-05 0.517814 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.536424
+NEW GAINS: 0.229447 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 66
+total_error = 2333.95
+best_total_error = 2332.7
+max_error = 9.59389
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0185636 4.64091e-05 0.517814 
+GAINS: 0.229447 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.536424
+NEW GAINS: 0.19232 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 67
+total_error = 2333.64
+best_total_error = 2332.7
+max_error = 6.6936
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0167073 4.64091e-05 0.517814 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.534568
+NEW GAINS: 0.210884 0.000255712 6.15501 
+==========================
+==========================
+completing iteration 68
+total_error = 2335.63
+best_total_error = 2332.7
+max_error = 8.5644
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0167073 4.64091e-05 0.517814 
+GAINS: 0.210884 0.000255712 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.534568
+NEW GAINS: 0.210884 0.000162894 6.15501 
+==========================
+==========================
+completing iteration 69
+total_error = 2333.18
+best_total_error = 2332.7
+max_error = 7.3734
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0167073 4.17682e-05 0.517814 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.534563
+NEW GAINS: 0.210884 0.000209303 6.67282 
+==========================
+==========================
+completing iteration 70
+total_error = 2334.2
+best_total_error = 2332.7
+max_error = 8.23346
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0167073 4.17682e-05 0.517814 
+GAINS: 0.210884 0.000209303 6.67282 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.534563
+NEW GAINS: 0.210884 0.000209303 5.63719 
+==========================
+==========================
+completing iteration 71
+total_error = 2332.8
+best_total_error = 2332.7
+max_error = 8.7847
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0167073 4.17682e-05 0.466033 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.482782
+NEW GAINS: 0.227591 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 72
+total_error = 2333.16
+best_total_error = 2332.7
+max_error = 7.85401
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0167073 4.17682e-05 0.466033 
+GAINS: 0.227591 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.482782
+NEW GAINS: 0.194176 0.000209303 6.15501 
+==========================
+==========================
+completing iteration 73
+total_error = 2333.05
+best_total_error = 2332.7
+max_error = 8.37929
+best_max_error = 8.16531
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0150365 4.17682e-05 0.466033 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.481111
+NEW GAINS: 0.210884 0.000251071 6.15501 
+==========================
+==========================
+completing iteration 74
+total_error = 2333.1
+best_total_error = 2332.7
+max_error = 9.03363
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0150365 4.17682e-05 0.466033 
+GAINS: 0.210884 0.000251071 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.481111
+NEW GAINS: 0.210884 0.000167535 6.15501 
+==========================
+==========================
+completing iteration 75
+total_error = 2332.88
+best_total_error = 2332.7
+max_error = 9.98497
+best_max_error = 8.16531
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0150365 3.75914e-05 0.466033 
+GAINS: 0.210884 0.000209303 6.15501 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.481107
+NEW GAINS: 0.210884 0.000209303 6.62104 
+==========================
+==========================
+completing iteration 76
+total_error = 2333.08
+best_total_error = 2332.7
+max_error = 7.61263
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0150365 3.75914e-05 0.466033 
+GAINS: 0.210884 0.000209303 6.62104 
+---------NEW VALS---------
+best_total_error = 2332.7
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.481107
+NEW GAINS: 0.210884 0.000209303 5.68897 
+==========================
+==========================
+completing iteration 77
+total_error = 2325.1
+best_total_error = 2332.7
+max_error = 5.94579
+best_max_error = 8.16531
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0150365 3.75914e-05 0.512636 
+GAINS: 0.210884 0.000209303 5.68897 
+---------NEW VALS---------
+best_total_error = 2325.1
+best_max_error = 5.94579
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.52771
+NEW GAINS: 0.22592 0.000209303 5.68897 
+==========================
+==========================
+completing iteration 78
+total_error = 2325.29
+best_total_error = 2325.1
+max_error = 8.32149
+best_max_error = 5.94579
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0150365 3.75914e-05 0.512636 
+GAINS: 0.22592 0.000209303 5.68897 
+---------NEW VALS---------
+best_total_error = 2325.1
+best_max_error = 5.94579
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.52771
+NEW GAINS: 0.195847 0.000209303 5.68897 
+==========================
+==========================
+completing iteration 79
+total_error = 2327.01
+best_total_error = 2325.1
+max_error = 8.01173
+best_max_error = 5.94579
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0135329 3.75914e-05 0.512636 
+GAINS: 0.210884 0.000209303 5.68897 
+---------NEW VALS---------
+best_total_error = 2325.1
+best_max_error = 5.94579
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.526206
+NEW GAINS: 0.210884 0.000246895 5.68897 
+==========================
+==========================
+completing iteration 80
+total_error = 2326.16
+best_total_error = 2325.1
+max_error = 8.32726
+best_max_error = 5.94579
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0135329 3.75914e-05 0.512636 
+GAINS: 0.210884 0.000246895 5.68897 
+---------NEW VALS---------
+best_total_error = 2325.1
+best_max_error = 5.94579
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.526206
+NEW GAINS: 0.210884 0.000171712 5.68897 
+==========================
+==========================
+completing iteration 81
+total_error = 2326.3
+best_total_error = 2325.1
+max_error = 7.01084
+best_max_error = 5.94579
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0135329 3.38322e-05 0.512636 
+GAINS: 0.210884 0.000209303 5.68897 
+---------NEW VALS---------
+best_total_error = 2325.1
+best_max_error = 5.94579
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.526203
+NEW GAINS: 0.210884 0.000209303 6.20161 
+==========================
+==========================
+completing iteration 82
+total_error = 2326.41
+best_total_error = 2325.1
+max_error = 7.89779
+best_max_error = 5.94579
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0135329 3.38322e-05 0.512636 
+GAINS: 0.210884 0.000209303 6.20161 
+---------NEW VALS---------
+best_total_error = 2325.1
+best_max_error = 5.94579
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.526203
+NEW GAINS: 0.210884 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 83
+total_error = 2319.6
+best_total_error = 2325.1
+max_error = 7.04372
+best_max_error = 5.94579
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0135329 3.38322e-05 0.5639 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.577466
+NEW GAINS: 0.224416 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 84
+total_error = 2320.94
+best_total_error = 2319.6
+max_error = 6.63784
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0135329 3.38322e-05 0.5639 
+GAINS: 0.224416 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.577466
+NEW GAINS: 0.197351 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 85
+total_error = 2319.6
+best_total_error = 2319.6
+max_error = 6.64299
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0121796 3.38322e-05 0.5639 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.576113
+NEW GAINS: 0.210884 0.000243135 5.17634 
+==========================
+==========================
+completing iteration 86
+total_error = 2319.82
+best_total_error = 2319.6
+max_error = 8.87563
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0121796 3.38322e-05 0.5639 
+GAINS: 0.210884 0.000243135 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.576113
+NEW GAINS: 0.210884 0.000175471 5.17634 
+==========================
+==========================
+completing iteration 87
+total_error = 2319.6
+best_total_error = 2319.6
+max_error = 5.68679
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0121796 3.0449e-05 0.5639 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.57611
+NEW GAINS: 0.210884 0.000209303 5.74024 
+==========================
+==========================
+completing iteration 88
+total_error = 2320.39
+best_total_error = 2319.6
+max_error = 7.31486
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0121796 3.0449e-05 0.5639 
+GAINS: 0.210884 0.000209303 5.74024 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.57611
+NEW GAINS: 0.210884 0.000209303 4.61244 
+==========================
+==========================
+completing iteration 89
+total_error = 2320.06
+best_total_error = 2319.6
+max_error = 6.3217
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0121796 3.0449e-05 0.50751 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.51972
+NEW GAINS: 0.223063 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 90
+total_error = 2322.04
+best_total_error = 2319.6
+max_error = 8.01343
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0121796 3.0449e-05 0.50751 
+GAINS: 0.223063 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.51972
+NEW GAINS: 0.198704 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 91
+total_error = 2320.89
+best_total_error = 2319.6
+max_error = 6.23351
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0109616 3.0449e-05 0.50751 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.518502
+NEW GAINS: 0.210884 0.000239752 5.17634 
+==========================
+==========================
+completing iteration 92
+total_error = 2320.08
+best_total_error = 2319.6
+max_error = 7.13371
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0109616 3.0449e-05 0.50751 
+GAINS: 0.210884 0.000239752 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.518502
+NEW GAINS: 0.210884 0.000178854 5.17634 
+==========================
+==========================
+completing iteration 93
+total_error = 2319.83
+best_total_error = 2319.6
+max_error = 4.95419
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0109616 2.74041e-05 0.50751 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.518499
+NEW GAINS: 0.210884 0.000209303 5.68385 
+==========================
+==========================
+completing iteration 94
+total_error = 2319.72
+best_total_error = 2319.6
+max_error = 7.01561
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0109616 2.74041e-05 0.50751 
+GAINS: 0.210884 0.000209303 5.68385 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.518499
+NEW GAINS: 0.210884 0.000209303 4.66883 
+==========================
+==========================
+completing iteration 95
+total_error = 2319.76
+best_total_error = 2319.6
+max_error = 6.15883
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0109616 2.74041e-05 0.456759 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.467748
+NEW GAINS: 0.221845 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 96
+total_error = 2320.38
+best_total_error = 2319.6
+max_error = 6.73974
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0109616 2.74041e-05 0.456759 
+GAINS: 0.221845 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.467748
+NEW GAINS: 0.199922 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 97
+total_error = 2320.37
+best_total_error = 2319.6
+max_error = 7.43108
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00986548 2.74041e-05 0.456759 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.466652
+NEW GAINS: 0.210884 0.000236707 5.17634 
+==========================
+==========================
+completing iteration 98
+total_error = 2320
+best_total_error = 2319.6
+max_error = 7.16526
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00986548 2.74041e-05 0.456759 
+GAINS: 0.210884 0.000236707 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.466652
+NEW GAINS: 0.210884 0.000181899 5.17634 
+==========================
+==========================
+completing iteration 99
+total_error = 2319.69
+best_total_error = 2319.6
+max_error = 6.46787
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00986548 2.46637e-05 0.456759 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.466649
+NEW GAINS: 0.210884 0.000209303 5.6331 
+==========================
+==========================
+completing iteration 100
+total_error = 2319.72
+best_total_error = 2319.6
+max_error = 7.38698
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00986548 2.46637e-05 0.456759 
+GAINS: 0.210884 0.000209303 5.6331 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.466649
+NEW GAINS: 0.210884 0.000209303 4.71958 
+==========================
+==========================
+completing iteration 101
+total_error = 2322.03
+best_total_error = 2319.6
+max_error = 7.44089
+best_max_error = 7.04372
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00986548 2.46637e-05 0.411083 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.420973
+NEW GAINS: 0.220749 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 102
+total_error = 2319.66
+best_total_error = 2319.6
+max_error = 6.21605
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00986548 2.46637e-05 0.411083 
+GAINS: 0.220749 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.420973
+NEW GAINS: 0.201018 0.000209303 5.17634 
+==========================
+==========================
+completing iteration 103
+total_error = 2319.68
+best_total_error = 2319.6
+max_error = 6.6013
+best_max_error = 7.04372
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00887893 2.46637e-05 0.411083 
+GAINS: 0.210884 0.000209303 5.17634 
+---------NEW VALS---------
+best_total_error = 2319.6
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.419986
+NEW GAINS: 0.210884 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 104
+total_error = 2274.08
+best_total_error = 2319.6
+max_error = 6.80323
+best_max_error = 7.04372
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00887893 2.71301e-05 0.411083 
+GAINS: 0.210884 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.419989
+NEW GAINS: 0.210884 0.000233967 5.58742 
+==========================
+==========================
+completing iteration 105
+total_error = 2274.15
+best_total_error = 2274.08
+max_error = 8.32149
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00887893 2.71301e-05 0.411083 
+GAINS: 0.210884 0.000233967 5.58742 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.419989
+NEW GAINS: 0.210884 0.000233967 4.76526 
+==========================
+==========================
+completing iteration 106
+total_error = 2274.24
+best_total_error = 2274.08
+max_error = 6.85654
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00887893 2.71301e-05 0.369974 
+GAINS: 0.210884 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.378881
+NEW GAINS: 0.219763 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 107
+total_error = 2274.3
+best_total_error = 2274.08
+max_error = 7.17543
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00887893 2.71301e-05 0.369974 
+GAINS: 0.219763 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.378881
+NEW GAINS: 0.202005 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 108
+total_error = 2274.37
+best_total_error = 2274.08
+max_error = 7.21674
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00799104 2.71301e-05 0.369974 
+GAINS: 0.210884 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.377993
+NEW GAINS: 0.210884 0.000261097 5.17634 
+==========================
+==========================
+completing iteration 109
+total_error = 2274.2
+best_total_error = 2274.08
+max_error = 7.05115
+best_max_error = 6.80323
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00799104 2.71301e-05 0.369974 
+GAINS: 0.210884 0.000261097 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.377993
+NEW GAINS: 0.210884 0.000206837 5.17634 
+==========================
+==========================
+completing iteration 110
+total_error = 2274.91
+best_total_error = 2274.08
+max_error = 7.78075
+best_max_error = 6.80323
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00799104 2.44171e-05 0.369974 
+GAINS: 0.210884 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.37799
+NEW GAINS: 0.210884 0.000233967 5.54631 
+==========================
+==========================
+completing iteration 111
+total_error = 2275.22
+best_total_error = 2274.08
+max_error = 7.65242
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00799104 2.44171e-05 0.369974 
+GAINS: 0.210884 0.000233967 5.54631 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.37799
+NEW GAINS: 0.210884 0.000233967 4.80636 
+==========================
+==========================
+completing iteration 112
+total_error = 2279.17
+best_total_error = 2274.08
+max_error = 8.10256
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00799104 2.44171e-05 0.332977 
+GAINS: 0.210884 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.340992
+NEW GAINS: 0.218875 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 113
+total_error = 2277.73
+best_total_error = 2274.08
+max_error = 7.53503
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00799104 2.44171e-05 0.332977 
+GAINS: 0.218875 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.340992
+NEW GAINS: 0.202893 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 114
+total_error = 2274.68
+best_total_error = 2274.08
+max_error = 7.54821
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00719193 2.44171e-05 0.332977 
+GAINS: 0.210884 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.340193
+NEW GAINS: 0.210884 0.000258384 5.17634 
+==========================
+==========================
+completing iteration 115
+total_error = 2274.47
+best_total_error = 2274.08
+max_error = 6.70447
+best_max_error = 6.80323
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00719193 2.44171e-05 0.332977 
+GAINS: 0.210884 0.000258384 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.340193
+NEW GAINS: 0.210884 0.00020955 5.17634 
+==========================
+==========================
+completing iteration 116
+total_error = 2274.22
+best_total_error = 2274.08
+max_error = 7.2404
+best_max_error = 6.80323
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00719193 2.19754e-05 0.332977 
+GAINS: 0.210884 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.340191
+NEW GAINS: 0.210884 0.000233967 5.50932 
+==========================
+==========================
+completing iteration 117
+total_error = 2276.95
+best_total_error = 2274.08
+max_error = 7.74008
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00719193 2.19754e-05 0.332977 
+GAINS: 0.210884 0.000233967 5.50932 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.340191
+NEW GAINS: 0.210884 0.000233967 4.84336 
+==========================
+==========================
+completing iteration 118
+total_error = 2274.21
+best_total_error = 2274.08
+max_error = 7.21298
+best_max_error = 6.80323
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00719193 2.19754e-05 0.299679 
+GAINS: 0.210884 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.306893
+NEW GAINS: 0.218076 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 119
+total_error = 2274.16
+best_total_error = 2274.08
+max_error = 7.02568
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00719193 2.19754e-05 0.299679 
+GAINS: 0.218076 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2274.08
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.306893
+NEW GAINS: 0.203692 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 120
+total_error = 2252.89
+best_total_error = 2274.08
+max_error = 7.21245
+best_max_error = 6.80323
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00791113 2.19754e-05 0.299679 
+GAINS: 0.203692 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.307612
+NEW GAINS: 0.203692 0.000255942 5.17634 
+==========================
+==========================
+completing iteration 121
+total_error = 2252.9
+best_total_error = 2252.89
+max_error = 6.21256
+best_max_error = 7.21245
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00791113 2.19754e-05 0.299679 
+GAINS: 0.203692 0.000255942 5.17634 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.307612
+NEW GAINS: 0.203692 0.000211992 5.17634 
+==========================
+==========================
+completing iteration 122
+total_error = 2257.87
+best_total_error = 2252.89
+max_error = 7.69008
+best_max_error = 7.21245
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00791113 1.97778e-05 0.299679 
+GAINS: 0.203692 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.30761
+NEW GAINS: 0.203692 0.000233967 5.47602 
+==========================
+==========================
+completing iteration 123
+total_error = 2254.75
+best_total_error = 2252.89
+max_error = 8.14703
+best_max_error = 7.21245
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00791113 1.97778e-05 0.299679 
+GAINS: 0.203692 0.000233967 5.47602 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.30761
+NEW GAINS: 0.203692 0.000233967 4.87666 
+==========================
+==========================
+completing iteration 124
+total_error = 2255.82
+best_total_error = 2252.89
+max_error = 8.7693
+best_max_error = 7.21245
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00791113 1.97778e-05 0.269711 
+GAINS: 0.203692 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.277642
+NEW GAINS: 0.211603 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 125
+total_error = 2252.95
+best_total_error = 2252.89
+max_error = 6.38421
+best_max_error = 7.21245
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00791113 1.97778e-05 0.269711 
+GAINS: 0.211603 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.277642
+NEW GAINS: 0.195781 0.000233967 5.17634 
+==========================
+==========================
+completing iteration 126
+total_error = 2253.52
+best_total_error = 2252.89
+max_error = 5.83271
+best_max_error = 7.21245
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00712002 1.97778e-05 0.269711 
+GAINS: 0.203692 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.276851
+NEW GAINS: 0.203692 0.000253745 5.17634 
+==========================
+==========================
+completing iteration 127
+total_error = 2253.36
+best_total_error = 2252.89
+max_error = 7.49062
+best_max_error = 7.21245
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00712002 1.97778e-05 0.269711 
+GAINS: 0.203692 0.000253745 5.17634 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.276851
+NEW GAINS: 0.203692 0.000214189 5.17634 
+==========================
+==========================
+completing iteration 128
+total_error = 2253.07
+best_total_error = 2252.89
+max_error = 5.4261
+best_max_error = 7.21245
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00712002 1.78e-05 0.269711 
+GAINS: 0.203692 0.000233967 5.17634 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.276849
+NEW GAINS: 0.203692 0.000233967 5.44605 
+==========================
+==========================
+completing iteration 129
+total_error = 2253.23
+best_total_error = 2252.89
+max_error = 6.5936
+best_max_error = 7.21245
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00712002 1.78e-05 0.269711 
+GAINS: 0.203692 0.000233967 5.44605 
+---------NEW VALS---------
+best_total_error = 2252.89
+best_max_error = 7.21245
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.276849
+NEW GAINS: 0.203692 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 130
+total_error = 2232.41
+best_total_error = 2252.89
+max_error = 5.38797
+best_max_error = 7.21245
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00712002 1.78e-05 0.296683 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.30382
+NEW GAINS: 0.210812 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 131
+total_error = 2233.07
+best_total_error = 2232.41
+max_error = 7.64191
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00712002 1.78e-05 0.296683 
+GAINS: 0.210812 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.30382
+NEW GAINS: 0.196572 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 132
+total_error = 2236.9
+best_total_error = 2232.41
+max_error = 6.0025
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00640801 1.78e-05 0.296683 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.303108
+NEW GAINS: 0.203692 0.000251767 4.90663 
+==========================
+==========================
+completing iteration 133
+total_error = 2101.57
+best_total_error = 2232.41
+max_error = 8.28749
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00640801 1.78e-05 0.296683 
+GAINS: 0.203692 0.000251767 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.303108
+NEW GAINS: 0.203692 0.000216167 4.90663 
+==========================
+==========================
+completing iteration 134
+total_error = 2232.75
+best_total_error = 2232.41
+max_error = 5.36525
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00640801 1.602e-05 0.296683 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.303107
+NEW GAINS: 0.203692 0.000233967 5.20331 
+==========================
+==========================
+completing iteration 135
+total_error = 2232.69
+best_total_error = 2232.41
+max_error = 5.83609
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00640801 1.602e-05 0.296683 
+GAINS: 0.203692 0.000233967 5.20331 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.303107
+NEW GAINS: 0.203692 0.000233967 4.60994 
+==========================
+==========================
+completing iteration 136
+total_error = 2233.21
+best_total_error = 2232.41
+max_error = 6.08264
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00640801 1.602e-05 0.267014 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.273438
+NEW GAINS: 0.2101 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 137
+total_error = 2232.98
+best_total_error = 2232.41
+max_error = 6.31869
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00640801 1.602e-05 0.267014 
+GAINS: 0.2101 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.273438
+NEW GAINS: 0.197284 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 138
+total_error = 2232.75
+best_total_error = 2232.41
+max_error = 5.72597
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00576721 1.602e-05 0.267014 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.272798
+NEW GAINS: 0.203692 0.000249987 4.90663 
+==========================
+==========================
+completing iteration 139
+total_error = 2233.56
+best_total_error = 2232.41
+max_error = 6.72572
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00576721 1.602e-05 0.267014 
+GAINS: 0.203692 0.000249987 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.272798
+NEW GAINS: 0.203692 0.000217947 4.90663 
+==========================
+==========================
+completing iteration 140
+total_error = 2232.63
+best_total_error = 2232.41
+max_error = 6.3011
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00576721 1.4418e-05 0.267014 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.272796
+NEW GAINS: 0.203692 0.000233967 5.17364 
+==========================
+==========================
+completing iteration 141
+total_error = 2233.74
+best_total_error = 2232.41
+max_error = 6.91848
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00576721 1.4418e-05 0.267014 
+GAINS: 0.203692 0.000233967 5.17364 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.272796
+NEW GAINS: 0.203692 0.000233967 4.63961 
+==========================
+==========================
+completing iteration 142
+total_error = 2236.49
+best_total_error = 2232.41
+max_error = 5.62164
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00576721 1.4418e-05 0.240313 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.246094
+NEW GAINS: 0.209459 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 143
+total_error = 2233.15
+best_total_error = 2232.41
+max_error = 7.72673
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00576721 1.4418e-05 0.240313 
+GAINS: 0.209459 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.246094
+NEW GAINS: 0.197924 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 144
+total_error = 2232.47
+best_total_error = 2232.41
+max_error = 5.9083
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00519049 1.4418e-05 0.240313 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.245518
+NEW GAINS: 0.203692 0.000248385 4.90663 
+==========================
+==========================
+completing iteration 145
+total_error = 2233.02
+best_total_error = 2232.41
+max_error = 6.32824
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00519049 1.4418e-05 0.240313 
+GAINS: 0.203692 0.000248385 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.245518
+NEW GAINS: 0.203692 0.000219549 4.90663 
+==========================
+==========================
+completing iteration 146
+total_error = 2232.41
+best_total_error = 2232.41
+max_error = 5.35089
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00519049 1.29762e-05 0.240313 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.245516
+NEW GAINS: 0.203692 0.000233967 5.14694 
+==========================
+==========================
+completing iteration 147
+total_error = 865.089
+best_total_error = 2232.41
+max_error = 8.17731
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00519049 1.29762e-05 0.240313 
+GAINS: 0.203692 0.000233967 5.14694 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.245516
+NEW GAINS: 0.203692 0.000233967 4.66631 
+==========================
+==========================
+completing iteration 148
+total_error = 2233.01
+best_total_error = 2232.41
+max_error = 6.53978
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00519049 1.29762e-05 0.216282 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.221485
+NEW GAINS: 0.208882 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 149
+total_error = 2110.38
+best_total_error = 2232.41
+max_error = 8.17731
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00519049 1.29762e-05 0.216282 
+GAINS: 0.208882 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.221485
+NEW GAINS: 0.198501 0.000233967 4.90663 
+==========================
+==========================
+completing iteration 150
+total_error = 2232.49
+best_total_error = 2232.41
+max_error = 5.7035
+best_max_error = 5.38797
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00467144 1.29762e-05 0.216282 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.220966
+NEW GAINS: 0.203692 0.000246943 4.90663 
+==========================
+==========================
+completing iteration 151
+total_error = 2233.29
+best_total_error = 2232.41
+max_error = 5.04407
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00467144 1.29762e-05 0.216282 
+GAINS: 0.203692 0.000246943 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.220966
+NEW GAINS: 0.203692 0.000220991 4.90663 
+==========================
+==========================
+completing iteration 152
+total_error = 2234.8
+best_total_error = 2232.41
+max_error = 6.91112
+best_max_error = 5.38797
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00467144 1.16786e-05 0.216282 
+GAINS: 0.203692 0.000233967 4.90663 
+---------NEW VALS---------
+best_total_error = 2232.41
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.220965
+NEW GAINS: 0.203692 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 153
+total_error = 2211.27
+best_total_error = 2232.41
+max_error = 4.27538
+best_max_error = 5.38797
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00467144 1.16786e-05 0.23791 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.242593
+NEW GAINS: 0.208363 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 154
+total_error = 2211.39
+best_total_error = 2211.27
+max_error = 6.08066
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00467144 1.16786e-05 0.23791 
+GAINS: 0.208363 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.242593
+NEW GAINS: 0.19902 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 155
+total_error = 857.36
+best_total_error = 2211.27
+max_error = 6.49893
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0042043 1.16786e-05 0.23791 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.242126
+NEW GAINS: 0.203692 0.000245645 5.12291 
+==========================
+==========================
+completing iteration 156
+total_error = 1993.65
+best_total_error = 2211.27
+max_error = 6.43941
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0042043 1.16786e-05 0.23791 
+GAINS: 0.203692 0.000245645 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.242126
+NEW GAINS: 0.203692 0.000222288 5.12291 
+==========================
+==========================
+completing iteration 157
+total_error = 2213.72
+best_total_error = 2211.27
+max_error = 6.3731
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0042043 1.05107e-05 0.23791 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.242125
+NEW GAINS: 0.203692 0.000233967 5.36082 
+==========================
+==========================
+completing iteration 158
+total_error = 2062.05
+best_total_error = 2211.27
+max_error = 6.55258
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0042043 1.05107e-05 0.23791 
+GAINS: 0.203692 0.000233967 5.36082 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.242125
+NEW GAINS: 0.203692 0.000233967 4.885 
+==========================
+==========================
+completing iteration 159
+total_error = 1938.59
+best_total_error = 2211.27
+max_error = 6.46888
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0042043 1.05107e-05 0.214119 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.218334
+NEW GAINS: 0.207896 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 160
+total_error = 2211.4
+best_total_error = 2211.27
+max_error = 5.5178
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.0042043 1.05107e-05 0.214119 
+GAINS: 0.207896 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.218334
+NEW GAINS: 0.199487 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 161
+total_error = 911.573
+best_total_error = 2211.27
+max_error = 6.61981
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00378387 1.05107e-05 0.214119 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.217913
+NEW GAINS: 0.203692 0.000244478 5.12291 
+==========================
+==========================
+completing iteration 162
+total_error = 2211.32
+best_total_error = 2211.27
+max_error = 5.01223
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00378387 1.05107e-05 0.214119 
+GAINS: 0.203692 0.000244478 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.217913
+NEW GAINS: 0.203692 0.000223456 5.12291 
+==========================
+==========================
+completing iteration 163
+total_error = 858.441
+best_total_error = 2211.27
+max_error = 6.51679
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00378387 9.45967e-06 0.214119 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.217912
+NEW GAINS: 0.203692 0.000233967 5.33703 
+==========================
+==========================
+completing iteration 164
+total_error = 2211.83
+best_total_error = 2211.27
+max_error = 6.2585
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00378387 9.45967e-06 0.214119 
+GAINS: 0.203692 0.000233967 5.33703 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.217912
+NEW GAINS: 0.203692 0.000233967 4.90879 
+==========================
+==========================
+completing iteration 165
+total_error = 2211.4
+best_total_error = 2211.27
+max_error = 5.82402
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00378387 9.45967e-06 0.192707 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.1965
+NEW GAINS: 0.207476 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 166
+total_error = 830.151
+best_total_error = 2211.27
+max_error = 6.47295
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00378387 9.45967e-06 0.192707 
+GAINS: 0.207476 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.1965
+NEW GAINS: 0.199908 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 167
+total_error = 2111.26
+best_total_error = 2211.27
+max_error = 6.54439
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00340548 9.45967e-06 0.192707 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.196122
+NEW GAINS: 0.203692 0.000243427 5.12291 
+==========================
+==========================
+completing iteration 168
+total_error = 914.627
+best_total_error = 2211.27
+max_error = 6.45617
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00340548 9.45967e-06 0.192707 
+GAINS: 0.203692 0.000243427 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.196122
+NEW GAINS: 0.203692 0.000224507 5.12291 
+==========================
+==========================
+completing iteration 169
+total_error = 2212.04
+best_total_error = 2211.27
+max_error = 6.21804
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00340548 8.5137e-06 0.192707 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.196121
+NEW GAINS: 0.203692 0.000233967 5.31562 
+==========================
+==========================
+completing iteration 170
+total_error = 899.309
+best_total_error = 2211.27
+max_error = 6.55872
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00340548 8.5137e-06 0.192707 
+GAINS: 0.203692 0.000233967 5.31562 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.196121
+NEW GAINS: 0.203692 0.000233967 4.9302 
+==========================
+==========================
+completing iteration 171
+total_error = 2211.29
+best_total_error = 2211.27
+max_error = 5.8913
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00340548 8.5137e-06 0.173436 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.17685
+NEW GAINS: 0.207097 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 172
+total_error = 817.172
+best_total_error = 2211.27
+max_error = 6.5536
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00340548 8.5137e-06 0.173436 
+GAINS: 0.207097 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.17685
+NEW GAINS: 0.200286 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 173
+total_error = 2211.98
+best_total_error = 2211.27
+max_error = 6.243
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00306493 8.5137e-06 0.173436 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.17651
+NEW GAINS: 0.203692 0.000242481 5.12291 
+==========================
+==========================
+completing iteration 174
+total_error = 2212.04
+best_total_error = 2211.27
+max_error = 5.11483
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00306493 8.5137e-06 0.173436 
+GAINS: 0.203692 0.000242481 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.17651
+NEW GAINS: 0.203692 0.000225453 5.12291 
+==========================
+==========================
+completing iteration 175
+total_error = 2212.06
+best_total_error = 2211.27
+max_error = 5.97705
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00306493 7.66233e-06 0.173436 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.176509
+NEW GAINS: 0.203692 0.000233967 5.29635 
+==========================
+==========================
+completing iteration 176
+total_error = 880.377
+best_total_error = 2211.27
+max_error = 6.56692
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00306493 7.66233e-06 0.173436 
+GAINS: 0.203692 0.000233967 5.29635 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.176509
+NEW GAINS: 0.203692 0.000233967 4.94947 
+==========================
+==========================
+completing iteration 177
+total_error = 2214.44
+best_total_error = 2211.27
+max_error = 5.96532
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00306493 7.66233e-06 0.156093 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.159165
+NEW GAINS: 0.206757 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 178
+total_error = 999.927
+best_total_error = 2211.27
+max_error = 6.4171
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00306493 7.66233e-06 0.156093 
+GAINS: 0.206757 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.159165
+NEW GAINS: 0.200627 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 179
+total_error = 2071.82
+best_total_error = 2211.27
+max_error = 6.51832
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00275844 7.66233e-06 0.156093 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.158859
+NEW GAINS: 0.203692 0.000241629 5.12291 
+==========================
+==========================
+completing iteration 180
+total_error = 1971.18
+best_total_error = 2211.27
+max_error = 6.4313
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00275844 7.66233e-06 0.156093 
+GAINS: 0.203692 0.000241629 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.158859
+NEW GAINS: 0.203692 0.000226305 5.12291 
+==========================
+==========================
+completing iteration 181
+total_error = 2211.48
+best_total_error = 2211.27
+max_error = 5.81919
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00275844 6.8961e-06 0.156093 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.158858
+NEW GAINS: 0.203692 0.000233967 5.279 
+==========================
+==========================
+completing iteration 182
+total_error = 869.84
+best_total_error = 2211.27
+max_error = 6.47244
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00275844 6.8961e-06 0.156093 
+GAINS: 0.203692 0.000233967 5.279 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.158858
+NEW GAINS: 0.203692 0.000233967 4.96682 
+==========================
+==========================
+completing iteration 183
+total_error = 2215.4
+best_total_error = 2211.27
+max_error = 6.32925
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00275844 6.8961e-06 0.140483 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.143249
+NEW GAINS: 0.20645 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 184
+total_error = 2211.44
+best_total_error = 2211.27
+max_error = 5.72549
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00275844 6.8961e-06 0.140483 
+GAINS: 0.20645 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.143249
+NEW GAINS: 0.200933 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 185
+total_error = 2212.28
+best_total_error = 2211.27
+max_error = 5.29966
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.0024826 6.8961e-06 0.140483 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.142973
+NEW GAINS: 0.203692 0.000240863 5.12291 
+==========================
+==========================
+completing iteration 186
+total_error = 2062.51
+best_total_error = 2211.27
+max_error = 6.78394
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.0024826 6.8961e-06 0.140483 
+GAINS: 0.203692 0.000240863 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.142973
+NEW GAINS: 0.203692 0.000227071 5.12291 
+==========================
+==========================
+completing iteration 187
+total_error = 2022.86
+best_total_error = 2211.27
+max_error = 6.4166
+best_max_error = 4.27538
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.0024826 6.20649e-06 0.140483 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.142972
+NEW GAINS: 0.203692 0.000233967 5.26339 
+==========================
+==========================
+completing iteration 188
+total_error = 2212.02
+best_total_error = 2211.27
+max_error = 4.99076
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.0024826 6.20649e-06 0.140483 
+GAINS: 0.203692 0.000233967 5.26339 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.142972
+NEW GAINS: 0.203692 0.000233967 4.98243 
+==========================
+==========================
+completing iteration 189
+total_error = 951.19
+best_total_error = 2211.27
+max_error = 6.49638
+best_max_error = 4.27538
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.0024826 6.20649e-06 0.126435 
+GAINS: 0.203692 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2211.27
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.128924
+NEW GAINS: 0.206174 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 190
+total_error = 2187.36
+best_total_error = 2211.27
+max_error = 5.27208
+best_max_error = 4.27538
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00273086 6.20649e-06 0.126435 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.129172
+NEW GAINS: 0.206174 0.000240173 5.12291 
+==========================
+==========================
+completing iteration 191
+total_error = 2187.73
+best_total_error = 2187.36
+max_error = 7.53008
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00273086 6.20649e-06 0.126435 
+GAINS: 0.206174 0.000240173 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.129172
+NEW GAINS: 0.206174 0.00022776 5.12291 
+==========================
+==========================
+completing iteration 192
+total_error = 2187.62
+best_total_error = 2187.36
+max_error = 6.75688
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00273086 5.58584e-06 0.126435 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.129171
+NEW GAINS: 0.206174 0.000233967 5.24934 
+==========================
+==========================
+completing iteration 193
+total_error = 2188.74
+best_total_error = 2187.36
+max_error = 7.19581
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00273086 5.58584e-06 0.126435 
+GAINS: 0.206174 0.000233967 5.24934 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.129171
+NEW GAINS: 0.206174 0.000233967 4.99647 
+==========================
+==========================
+completing iteration 194
+total_error = 952.739
+best_total_error = 2187.36
+max_error = 7.99815
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00273086 5.58584e-06 0.113791 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.116528
+NEW GAINS: 0.208905 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 195
+total_error = 2188.19
+best_total_error = 2187.36
+max_error = 7.52954
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00273086 5.58584e-06 0.113791 
+GAINS: 0.208905 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.116528
+NEW GAINS: 0.203443 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 196
+total_error = 2177.59
+best_total_error = 2187.36
+max_error = 8.05538
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00245777 5.58584e-06 0.113791 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.116255
+NEW GAINS: 0.206174 0.000239553 5.12291 
+==========================
+==========================
+completing iteration 197
+total_error = 2192.34
+best_total_error = 2187.36
+max_error = 7.28352
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00245777 5.58584e-06 0.113791 
+GAINS: 0.206174 0.000239553 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.116255
+NEW GAINS: 0.206174 0.000228381 5.12291 
+==========================
+==========================
+completing iteration 198
+total_error = 2191.84
+best_total_error = 2187.36
+max_error = 8.09061
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00245777 5.02726e-06 0.113791 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.116254
+NEW GAINS: 0.206174 0.000233967 5.2367 
+==========================
+==========================
+completing iteration 199
+total_error = 2193.22
+best_total_error = 2187.36
+max_error = 6.89378
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00245777 5.02726e-06 0.113791 
+GAINS: 0.206174 0.000233967 5.2367 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.116254
+NEW GAINS: 0.206174 0.000233967 5.00912 
+==========================
+==========================
+completing iteration 200
+total_error = 2187.81
+best_total_error = 2187.36
+max_error = 6.37765
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00245777 5.02726e-06 0.102412 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.104875
+NEW GAINS: 0.208632 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 201
+total_error = 2071.81
+best_total_error = 2187.36
+max_error = 8.13733
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00245777 5.02726e-06 0.102412 
+GAINS: 0.208632 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.104875
+NEW GAINS: 0.203716 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 202
+total_error = 2192.83
+best_total_error = 2187.36
+max_error = 6.72054
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00221199 5.02726e-06 0.102412 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.104629
+NEW GAINS: 0.206174 0.000238994 5.12291 
+==========================
+==========================
+completing iteration 203
+total_error = 2187.43
+best_total_error = 2187.36
+max_error = 7.1567
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00221199 5.02726e-06 0.102412 
+GAINS: 0.206174 0.000238994 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.104629
+NEW GAINS: 0.206174 0.00022894 5.12291 
+==========================
+==========================
+completing iteration 204
+total_error = 2188.63
+best_total_error = 2187.36
+max_error = 7.38155
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00221199 4.52453e-06 0.102412 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.104629
+NEW GAINS: 0.206174 0.000233967 5.22532 
+==========================
+==========================
+completing iteration 205
+total_error = 970.846
+best_total_error = 2187.36
+max_error = 7.97328
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00221199 4.52453e-06 0.102412 
+GAINS: 0.206174 0.000233967 5.22532 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.104629
+NEW GAINS: 0.206174 0.000233967 5.0205 
+==========================
+==========================
+completing iteration 206
+total_error = 2188.63
+best_total_error = 2187.36
+max_error = 6.23301
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00221199 4.52453e-06 0.0921711 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0943876
+NEW GAINS: 0.208386 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 207
+total_error = 2188.25
+best_total_error = 2187.36
+max_error = 7.40439
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00221199 4.52453e-06 0.0921711 
+GAINS: 0.208386 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0943876
+NEW GAINS: 0.203962 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 208
+total_error = 2193.39
+best_total_error = 2187.36
+max_error = 7.73007
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00199079 4.52453e-06 0.0921711 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0941664
+NEW GAINS: 0.206174 0.000238491 5.12291 
+==========================
+==========================
+completing iteration 209
+total_error = 2188.14
+best_total_error = 2187.36
+max_error = 5.86608
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00199079 4.52453e-06 0.0921711 
+GAINS: 0.206174 0.000238491 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0941664
+NEW GAINS: 0.206174 0.000229442 5.12291 
+==========================
+==========================
+completing iteration 210
+total_error = 2190.85
+best_total_error = 2187.36
+max_error = 6.7626
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00199079 4.07208e-06 0.0921711 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.094166
+NEW GAINS: 0.206174 0.000233967 5.21508 
+==========================
+==========================
+completing iteration 211
+total_error = 2112.14
+best_total_error = 2187.36
+max_error = 8.12934
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00199079 4.07208e-06 0.0921711 
+GAINS: 0.206174 0.000233967 5.21508 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.094166
+NEW GAINS: 0.206174 0.000233967 5.03074 
+==========================
+==========================
+completing iteration 212
+total_error = 2188.74
+best_total_error = 2187.36
+max_error = 7.46984
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00199079 4.07208e-06 0.082954 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0849489
+NEW GAINS: 0.208165 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 213
+total_error = 940.564
+best_total_error = 2187.36
+max_error = 7.95409
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00199079 4.07208e-06 0.082954 
+GAINS: 0.208165 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0849489
+NEW GAINS: 0.204183 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 214
+total_error = 917.745
+best_total_error = 2187.36
+max_error = 8.23862
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00179171 4.07208e-06 0.082954 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0847498
+NEW GAINS: 0.206174 0.000238039 5.12291 
+==========================
+==========================
+completing iteration 215
+total_error = 2050.7
+best_total_error = 2187.36
+max_error = 7.9682
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00179171 4.07208e-06 0.082954 
+GAINS: 0.206174 0.000238039 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0847498
+NEW GAINS: 0.206174 0.000229895 5.12291 
+==========================
+==========================
+completing iteration 216
+total_error = 2192.9
+best_total_error = 2187.36
+max_error = 7.53722
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00179171 3.66487e-06 0.082954 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0847494
+NEW GAINS: 0.206174 0.000233967 5.20586 
+==========================
+==========================
+completing iteration 217
+total_error = 2187.51
+best_total_error = 2187.36
+max_error = 5.67917
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00179171 3.66487e-06 0.082954 
+GAINS: 0.206174 0.000233967 5.20586 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0847494
+NEW GAINS: 0.206174 0.000233967 5.03996 
+==========================
+==========================
+completing iteration 218
+total_error = 2187.52
+best_total_error = 2187.36
+max_error = 6.04176
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00179171 3.66487e-06 0.0746586 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.076454
+NEW GAINS: 0.207966 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 219
+total_error = 2187.88
+best_total_error = 2187.36
+max_error = 7.13531
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00179171 3.66487e-06 0.0746586 
+GAINS: 0.207966 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.076454
+NEW GAINS: 0.204383 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 220
+total_error = 2187.55
+best_total_error = 2187.36
+max_error = 5.65156
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00161254 3.66487e-06 0.0746586 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0762748
+NEW GAINS: 0.206174 0.000237632 5.12291 
+==========================
+==========================
+completing iteration 221
+total_error = 2187.36
+best_total_error = 2187.36
+max_error = 6.26351
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00161254 3.66487e-06 0.0746586 
+GAINS: 0.206174 0.000237632 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0762748
+NEW GAINS: 0.206174 0.000230302 5.12291 
+==========================
+==========================
+completing iteration 222
+total_error = 2190.17
+best_total_error = 2187.36
+max_error = 7.80197
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00161254 3.29838e-06 0.0746586 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0762744
+NEW GAINS: 0.206174 0.000233967 5.19757 
+==========================
+==========================
+completing iteration 223
+total_error = 2190.47
+best_total_error = 2187.36
+max_error = 7.25117
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00161254 3.29838e-06 0.0746586 
+GAINS: 0.206174 0.000233967 5.19757 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0762744
+NEW GAINS: 0.206174 0.000233967 5.04825 
+==========================
+==========================
+completing iteration 224
+total_error = 2190.27
+best_total_error = 2187.36
+max_error = 6.45922
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00161254 3.29838e-06 0.0671927 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0688086
+NEW GAINS: 0.207787 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 225
+total_error = 2187.74
+best_total_error = 2187.36
+max_error = 5.85156
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00161254 3.29838e-06 0.0671927 
+GAINS: 0.207787 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0688086
+NEW GAINS: 0.204562 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 226
+total_error = 2187.42
+best_total_error = 2187.36
+max_error = 5.23632
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00145129 3.29838e-06 0.0671927 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0686473
+NEW GAINS: 0.206174 0.000237265 5.12291 
+==========================
+==========================
+completing iteration 227
+total_error = 2188.07
+best_total_error = 2187.36
+max_error = 6.42623
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00145129 3.29838e-06 0.0671927 
+GAINS: 0.206174 0.000237265 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0686473
+NEW GAINS: 0.206174 0.000230669 5.12291 
+==========================
+==========================
+completing iteration 228
+total_error = 2189.29
+best_total_error = 2187.36
+max_error = 7.35006
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00145129 2.96854e-06 0.0671927 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.068647
+NEW GAINS: 0.206174 0.000233967 5.1901 
+==========================
+==========================
+completing iteration 229
+total_error = 2188.54
+best_total_error = 2187.36
+max_error = 6.81628
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00145129 2.96854e-06 0.0671927 
+GAINS: 0.206174 0.000233967 5.1901 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.068647
+NEW GAINS: 0.206174 0.000233967 5.05572 
+==========================
+==========================
+completing iteration 230
+total_error = 2189.95
+best_total_error = 2187.36
+max_error = 7.10382
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00145129 2.96854e-06 0.0604735 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0619277
+NEW GAINS: 0.207626 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 231
+total_error = 2191.17
+best_total_error = 2187.36
+max_error = 7.45563
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00145129 2.96854e-06 0.0604735 
+GAINS: 0.207626 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0619277
+NEW GAINS: 0.204723 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 232
+total_error = 2187.57
+best_total_error = 2187.36
+max_error = 6.82516
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00130616 2.96854e-06 0.0604735 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0617826
+NEW GAINS: 0.206174 0.000236935 5.12291 
+==========================
+==========================
+completing iteration 233
+total_error = 2066.32
+best_total_error = 2187.36
+max_error = 7.94056
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00130616 2.96854e-06 0.0604735 
+GAINS: 0.206174 0.000236935 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0617826
+NEW GAINS: 0.206174 0.000230998 5.12291 
+==========================
+==========================
+completing iteration 234
+total_error = 2187.68
+best_total_error = 2187.36
+max_error = 6.70085
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00130616 2.67169e-06 0.0604735 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0617823
+NEW GAINS: 0.206174 0.000233967 5.18338 
+==========================
+==========================
+completing iteration 235
+total_error = 2188.44
+best_total_error = 2187.36
+max_error = 6.77613
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00130616 2.67169e-06 0.0604735 
+GAINS: 0.206174 0.000233967 5.18338 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0617823
+NEW GAINS: 0.206174 0.000233967 5.06244 
+==========================
+==========================
+completing iteration 236
+total_error = 2189.45
+best_total_error = 2187.36
+max_error = 7.23072
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00130616 2.67169e-06 0.0544261 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0557349
+NEW GAINS: 0.20748 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 237
+total_error = 2173.56
+best_total_error = 2187.36
+max_error = 7.99872
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00130616 2.67169e-06 0.0544261 
+GAINS: 0.20748 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0557349
+NEW GAINS: 0.204868 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 238
+total_error = 2187.82
+best_total_error = 2187.36
+max_error = 7.42345
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00117554 2.67169e-06 0.0544261 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0556043
+NEW GAINS: 0.206174 0.000236639 5.12291 
+==========================
+==========================
+completing iteration 239
+total_error = 2187.41
+best_total_error = 2187.36
+max_error = 6.81993
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00117554 2.67169e-06 0.0544261 
+GAINS: 0.206174 0.000236639 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0556043
+NEW GAINS: 0.206174 0.000231295 5.12291 
+==========================
+==========================
+completing iteration 240
+total_error = 2187.56
+best_total_error = 2187.36
+max_error = 6.46685
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00117554 2.40452e-06 0.0544261 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0556041
+NEW GAINS: 0.206174 0.000233967 5.17734 
+==========================
+==========================
+completing iteration 241
+total_error = 2189.37
+best_total_error = 2187.36
+max_error = 6.63629
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00117554 2.40452e-06 0.0544261 
+GAINS: 0.206174 0.000233967 5.17734 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0556041
+NEW GAINS: 0.206174 0.000233967 5.06848 
+==========================
+==========================
+completing iteration 242
+total_error = 2188.67
+best_total_error = 2187.36
+max_error = 6.55206
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00117554 2.40452e-06 0.0489835 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0501615
+NEW GAINS: 0.20735 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 243
+total_error = 2187.75
+best_total_error = 2187.36
+max_error = 6.61518
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00117554 2.40452e-06 0.0489835 
+GAINS: 0.20735 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0501615
+NEW GAINS: 0.204999 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 244
+total_error = 2190.27
+best_total_error = 2187.36
+max_error = 6.82568
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00105799 2.40452e-06 0.0489835 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0500439
+NEW GAINS: 0.206174 0.000236371 5.12291 
+==========================
+==========================
+completing iteration 245
+total_error = 2191.47
+best_total_error = 2187.36
+max_error = 7.21352
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00105799 2.40452e-06 0.0489835 
+GAINS: 0.206174 0.000236371 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0500439
+NEW GAINS: 0.206174 0.000231562 5.12291 
+==========================
+==========================
+completing iteration 246
+total_error = 2103.35
+best_total_error = 2187.36
+max_error = 8.16588
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00105799 2.16407e-06 0.0489835 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0500437
+NEW GAINS: 0.206174 0.000233967 5.17189 
+==========================
+==========================
+completing iteration 247
+total_error = 2188.02
+best_total_error = 2187.36
+max_error = 7.73007
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00105799 2.16407e-06 0.0489835 
+GAINS: 0.206174 0.000233967 5.17189 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0500437
+NEW GAINS: 0.206174 0.000233967 5.07393 
+==========================
+==========================
+completing iteration 248
+total_error = 2187.98
+best_total_error = 2187.36
+max_error = 7.71173
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00105799 2.16407e-06 0.0440852 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0451453
+NEW GAINS: 0.207232 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 249
+total_error = 2187.75
+best_total_error = 2187.36
+max_error = 6.75428
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00105799 2.16407e-06 0.0440852 
+GAINS: 0.207232 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0451453
+NEW GAINS: 0.205116 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 250
+total_error = 2161.22
+best_total_error = 2187.36
+max_error = 7.95861
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00095219 2.16407e-06 0.0440852 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0450395
+NEW GAINS: 0.206174 0.000236131 5.12291 
+==========================
+==========================
+completing iteration 251
+total_error = 2191.62
+best_total_error = 2187.36
+max_error = 7.12943
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00095219 2.16407e-06 0.0440852 
+GAINS: 0.206174 0.000236131 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0450395
+NEW GAINS: 0.206174 0.000231803 5.12291 
+==========================
+==========================
+completing iteration 252
+total_error = 2187.74
+best_total_error = 2187.36
+max_error = 6.95588
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00095219 1.94766e-06 0.0440852 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0450393
+NEW GAINS: 0.206174 0.000233967 5.16699 
+==========================
+==========================
+completing iteration 253
+total_error = 2188.06
+best_total_error = 2187.36
+max_error = 6.94586
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00095219 1.94766e-06 0.0440852 
+GAINS: 0.206174 0.000233967 5.16699 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0450393
+NEW GAINS: 0.206174 0.000233967 5.07882 
+==========================
+==========================
+completing iteration 254
+total_error = 2190.88
+best_total_error = 2187.36
+max_error = 6.86859
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00095219 1.94766e-06 0.0396766 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0406308
+NEW GAINS: 0.207126 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 255
+total_error = 2187.61
+best_total_error = 2187.36
+max_error = 5.66773
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00095219 1.94766e-06 0.0396766 
+GAINS: 0.207126 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0406308
+NEW GAINS: 0.205222 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 256
+total_error = 2188.07
+best_total_error = 2187.36
+max_error = 6.29709
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000856971 1.94766e-06 0.0396766 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0405356
+NEW GAINS: 0.206174 0.000235915 5.12291 
+==========================
+==========================
+completing iteration 257
+total_error = 2188.26
+best_total_error = 2187.36
+max_error = 5.52861
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000856971 1.94766e-06 0.0396766 
+GAINS: 0.206174 0.000235915 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0405356
+NEW GAINS: 0.206174 0.000232019 5.12291 
+==========================
+==========================
+completing iteration 258
+total_error = 2187.93
+best_total_error = 2187.36
+max_error = 5.99368
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000856971 1.7529e-06 0.0396766 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0405354
+NEW GAINS: 0.206174 0.000233967 5.16259 
+==========================
+==========================
+completing iteration 259
+total_error = 2187.53
+best_total_error = 2187.36
+max_error = 6.78759
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000856971 1.7529e-06 0.0396766 
+GAINS: 0.206174 0.000233967 5.16259 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0405354
+NEW GAINS: 0.206174 0.000233967 5.08323 
+==========================
+==========================
+completing iteration 260
+total_error = 2187.7
+best_total_error = 2187.36
+max_error = 6.51117
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000856971 1.7529e-06 0.035709 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0365677
+NEW GAINS: 0.207031 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 261
+total_error = 2122.07
+best_total_error = 2187.36
+max_error = 8.11395
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000856971 1.7529e-06 0.035709 
+GAINS: 0.207031 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0365677
+NEW GAINS: 0.205317 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 262
+total_error = 2189.7
+best_total_error = 2187.36
+max_error = 6.97382
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000771274 1.7529e-06 0.035709 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.036482
+NEW GAINS: 0.206174 0.00023572 5.12291 
+==========================
+==========================
+completing iteration 263
+total_error = 2188.78
+best_total_error = 2187.36
+max_error = 7.02674
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000771274 1.7529e-06 0.035709 
+GAINS: 0.206174 0.00023572 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.036482
+NEW GAINS: 0.206174 0.000232214 5.12291 
+==========================
+==========================
+completing iteration 264
+total_error = 2190.54
+best_total_error = 2187.36
+max_error = 6.75844
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000771274 1.57761e-06 0.035709 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0364818
+NEW GAINS: 0.206174 0.000233967 5.15862 
+==========================
+==========================
+completing iteration 265
+total_error = 2188.1
+best_total_error = 2187.36
+max_error = 6.69878
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000771274 1.57761e-06 0.035709 
+GAINS: 0.206174 0.000233967 5.15862 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0364818
+NEW GAINS: 0.206174 0.000233967 5.0872 
+==========================
+==========================
+completing iteration 266
+total_error = 2123.92
+best_total_error = 2187.36
+max_error = 7.93943
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000771274 1.57761e-06 0.0321381 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0329109
+NEW GAINS: 0.206946 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 267
+total_error = 2190.81
+best_total_error = 2187.36
+max_error = 7.72896
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000771274 1.57761e-06 0.0321381 
+GAINS: 0.206946 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0329109
+NEW GAINS: 0.205403 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 268
+total_error = 2189.64
+best_total_error = 2187.36
+max_error = 6.85288
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000694147 1.57761e-06 0.0321381 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0328338
+NEW GAINS: 0.206174 0.000235544 5.12291 
+==========================
+==========================
+completing iteration 269
+total_error = 2190.3
+best_total_error = 2187.36
+max_error = 6.39685
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000694147 1.57761e-06 0.0321381 
+GAINS: 0.206174 0.000235544 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0328338
+NEW GAINS: 0.206174 0.000232389 5.12291 
+==========================
+==========================
+completing iteration 270
+total_error = 2189.89
+best_total_error = 2187.36
+max_error = 7.47312
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000694147 1.41985e-06 0.0321381 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0328336
+NEW GAINS: 0.206174 0.000233967 5.15505 
+==========================
+==========================
+completing iteration 271
+total_error = 2190.16
+best_total_error = 2187.36
+max_error = 7.74064
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000694147 1.41985e-06 0.0321381 
+GAINS: 0.206174 0.000233967 5.15505 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0328336
+NEW GAINS: 0.206174 0.000233967 5.09077 
+==========================
+==========================
+completing iteration 272
+total_error = 2189.2
+best_total_error = 2187.36
+max_error = 5.87626
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000694147 1.41985e-06 0.0289243 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0296198
+NEW GAINS: 0.206868 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 273
+total_error = 2188.47
+best_total_error = 2187.36
+max_error = 6.34788
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000694147 1.41985e-06 0.0289243 
+GAINS: 0.206868 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0296198
+NEW GAINS: 0.20548 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 274
+total_error = 2188.6
+best_total_error = 2187.36
+max_error = 6.98281
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000624732 1.41985e-06 0.0289243 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0295504
+NEW GAINS: 0.206174 0.000235387 5.12291 
+==========================
+==========================
+completing iteration 275
+total_error = 2190.24
+best_total_error = 2187.36
+max_error = 6.65124
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000624732 1.41985e-06 0.0289243 
+GAINS: 0.206174 0.000235387 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0295504
+NEW GAINS: 0.206174 0.000232547 5.12291 
+==========================
+==========================
+completing iteration 276
+total_error = 2188.32
+best_total_error = 2187.36
+max_error = 6.72676
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000624732 1.27786e-06 0.0289243 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0295503
+NEW GAINS: 0.206174 0.000233967 5.15183 
+==========================
+==========================
+completing iteration 277
+total_error = 2187.57
+best_total_error = 2187.36
+max_error = 6.78915
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000624732 1.27786e-06 0.0289243 
+GAINS: 0.206174 0.000233967 5.15183 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0295503
+NEW GAINS: 0.206174 0.000233967 5.09398 
+==========================
+==========================
+completing iteration 278
+total_error = 2188.29
+best_total_error = 2187.36
+max_error = 6.85392
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000624732 1.27786e-06 0.0260318 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0266579
+NEW GAINS: 0.206799 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 279
+total_error = 2188.22
+best_total_error = 2187.36
+max_error = 6.73299
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000624732 1.27786e-06 0.0260318 
+GAINS: 0.206799 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0266579
+NEW GAINS: 0.20555 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 280
+total_error = 2187.82
+best_total_error = 2187.36
+max_error = 6.42724
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000562259 1.27786e-06 0.0260318 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0265954
+NEW GAINS: 0.206174 0.000235245 5.12291 
+==========================
+==========================
+completing iteration 281
+total_error = 2188.26
+best_total_error = 2187.36
+max_error = 6.49281
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000562259 1.27786e-06 0.0260318 
+GAINS: 0.206174 0.000235245 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0265954
+NEW GAINS: 0.206174 0.000232689 5.12291 
+==========================
+==========================
+completing iteration 282
+total_error = 2192.82
+best_total_error = 2187.36
+max_error = 6.261
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000562259 1.15008e-06 0.0260318 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0265953
+NEW GAINS: 0.206174 0.000233967 5.14894 
+==========================
+==========================
+completing iteration 283
+total_error = 2187.91
+best_total_error = 2187.36
+max_error = 5.80328
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000562259 1.15008e-06 0.0260318 
+GAINS: 0.206174 0.000233967 5.14894 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0265953
+NEW GAINS: 0.206174 0.000233967 5.09688 
+==========================
+==========================
+completing iteration 284
+total_error = 2052.02
+best_total_error = 2187.36
+max_error = 7.98741
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000562259 1.15008e-06 0.0234287 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0239921
+NEW GAINS: 0.206737 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 285
+total_error = 2188.01
+best_total_error = 2187.36
+max_error = 7.32731
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000562259 1.15008e-06 0.0234287 
+GAINS: 0.206737 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0239921
+NEW GAINS: 0.205612 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 286
+total_error = 2187.46
+best_total_error = 2187.36
+max_error = 5.76816
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000506033 1.15008e-06 0.0234287 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0239358
+NEW GAINS: 0.206174 0.000235117 5.12291 
+==========================
+==========================
+completing iteration 287
+total_error = 2188.12
+best_total_error = 2187.36
+max_error = 6.07622
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000506033 1.15008e-06 0.0234287 
+GAINS: 0.206174 0.000235117 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0239358
+NEW GAINS: 0.206174 0.000232817 5.12291 
+==========================
+==========================
+completing iteration 288
+total_error = 946.042
+best_total_error = 2187.36
+max_error = 8.11053
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000506033 1.03507e-06 0.0234287 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0239357
+NEW GAINS: 0.206174 0.000233967 5.14634 
+==========================
+==========================
+completing iteration 289
+total_error = 2192.06
+best_total_error = 2187.36
+max_error = 7.51418
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000506033 1.03507e-06 0.0234287 
+GAINS: 0.206174 0.000233967 5.14634 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0239357
+NEW GAINS: 0.206174 0.000233967 5.09948 
+==========================
+==========================
+completing iteration 290
+total_error = 2189.35
+best_total_error = 2187.36
+max_error = 6.70033
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000506033 1.03507e-06 0.0210858 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0215929
+NEW GAINS: 0.20668 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 291
+total_error = 2190.14
+best_total_error = 2187.36
+max_error = 6.66208
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000506033 1.03507e-06 0.0210858 
+GAINS: 0.20668 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0215929
+NEW GAINS: 0.205668 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 292
+total_error = 2188.45
+best_total_error = 2187.36
+max_error = 6.69981
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.00045543 1.03507e-06 0.0210858 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0215423
+NEW GAINS: 0.206174 0.000235002 5.12291 
+==========================
+==========================
+completing iteration 293
+total_error = 2000.42
+best_total_error = 2187.36
+max_error = 8.06787
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.00045543 1.03507e-06 0.0210858 
+GAINS: 0.206174 0.000235002 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0215423
+NEW GAINS: 0.206174 0.000232932 5.12291 
+==========================
+==========================
+completing iteration 294
+total_error = 2187.42
+best_total_error = 2187.36
+max_error = 5.83609
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.00045543 9.31561e-07 0.0210858 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0215422
+NEW GAINS: 0.206174 0.000233967 5.14399 
+==========================
+==========================
+completing iteration 295
+total_error = 2188.02
+best_total_error = 2187.36
+max_error = 6.88223
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.00045543 9.31561e-07 0.0210858 
+GAINS: 0.206174 0.000233967 5.14399 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0215422
+NEW GAINS: 0.206174 0.000233967 5.10182 
+==========================
+==========================
+completing iteration 296
+total_error = 2188.19
+best_total_error = 2187.36
+max_error = 5.9263
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.00045543 9.31561e-07 0.0189772 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0194336
+NEW GAINS: 0.20663 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 297
+total_error = 2187.7
+best_total_error = 2187.36
+max_error = 6.48415
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.00045543 9.31561e-07 0.0189772 
+GAINS: 0.20663 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0194336
+NEW GAINS: 0.205719 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 298
+total_error = 2187.84
+best_total_error = 2187.36
+max_error = 7.08305
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000409887 9.31561e-07 0.0189772 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.019388
+NEW GAINS: 0.206174 0.000234898 5.12291 
+==========================
+==========================
+completing iteration 299
+total_error = 2188.96
+best_total_error = 2187.36
+max_error = 6.65588
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000409887 9.31561e-07 0.0189772 
+GAINS: 0.206174 0.000234898 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.019388
+NEW GAINS: 0.206174 0.000233035 5.12291 
+==========================
+==========================
+completing iteration 300
+total_error = 2187.42
+best_total_error = 2187.36
+max_error = 6.54797
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000409887 8.38405e-07 0.0189772 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0193879
+NEW GAINS: 0.206174 0.000233967 5.14189 
+==========================
+==========================
+completing iteration 301
+total_error = 2187.49
+best_total_error = 2187.36
+max_error = 6.34335
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000409887 8.38405e-07 0.0189772 
+GAINS: 0.206174 0.000233967 5.14189 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0193879
+NEW GAINS: 0.206174 0.000233967 5.10393 
+==========================
+==========================
+completing iteration 302
+total_error = 2187.91
+best_total_error = 2187.36
+max_error = 6.40242
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000409887 8.38405e-07 0.0170795 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0174902
+NEW GAINS: 0.206584 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 303
+total_error = 2187.86
+best_total_error = 2187.36
+max_error = 5.59228
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000409887 8.38405e-07 0.0170795 
+GAINS: 0.206584 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0174902
+NEW GAINS: 0.205764 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 304
+total_error = 2051.4
+best_total_error = 2187.36
+max_error = 7.93324
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000368898 8.38405e-07 0.0170795 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0174492
+NEW GAINS: 0.206174 0.000234805 5.12291 
+==========================
+==========================
+completing iteration 305
+total_error = 2187.64
+best_total_error = 2187.36
+max_error = 5.97656
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000368898 8.38405e-07 0.0170795 
+GAINS: 0.206174 0.000234805 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0174492
+NEW GAINS: 0.206174 0.000233128 5.12291 
+==========================
+==========================
+completing iteration 306
+total_error = 2187.91
+best_total_error = 2187.36
+max_error = 6.19413
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000368898 7.54564e-07 0.0170795 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0174491
+NEW GAINS: 0.206174 0.000233967 5.13999 
+==========================
+==========================
+completing iteration 307
+total_error = 2187.58
+best_total_error = 2187.36
+max_error = 7.08252
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000368898 7.54564e-07 0.0170795 
+GAINS: 0.206174 0.000233967 5.13999 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0174491
+NEW GAINS: 0.206174 0.000233967 5.10583 
+==========================
+==========================
+completing iteration 308
+total_error = 2193.96
+best_total_error = 2187.36
+max_error = 6.92637
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000368898 7.54564e-07 0.0153715 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0157412
+NEW GAINS: 0.206543 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 309
+total_error = 2188.08
+best_total_error = 2187.36
+max_error = 6.73454
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000368898 7.54564e-07 0.0153715 
+GAINS: 0.206543 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0157412
+NEW GAINS: 0.205805 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 310
+total_error = 2190.42
+best_total_error = 2187.36
+max_error = 6.13008
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000332008 7.54564e-07 0.0153715 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0157043
+NEW GAINS: 0.206174 0.000234721 5.12291 
+==========================
+==========================
+completing iteration 311
+total_error = 2190.58
+best_total_error = 2187.36
+max_error = 6.1996
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000332008 7.54564e-07 0.0153715 
+GAINS: 0.206174 0.000234721 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0157043
+NEW GAINS: 0.206174 0.000233212 5.12291 
+==========================
+==========================
+completing iteration 312
+total_error = 2187.75
+best_total_error = 2187.36
+max_error = 6.50964
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000332008 6.79108e-07 0.0153715 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0157042
+NEW GAINS: 0.206174 0.000233967 5.13828 
+==========================
+==========================
+completing iteration 313
+total_error = 2188.31
+best_total_error = 2187.36
+max_error = 6.3207
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000332008 6.79108e-07 0.0153715 
+GAINS: 0.206174 0.000233967 5.13828 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0157042
+NEW GAINS: 0.206174 0.000233967 5.10754 
+==========================
+==========================
+completing iteration 314
+total_error = 2187.5
+best_total_error = 2187.36
+max_error = 5.94141
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000332008 6.79108e-07 0.0138344 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0141671
+NEW GAINS: 0.206506 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 315
+total_error = 2188.43
+best_total_error = 2187.36
+max_error = 6.52394
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000332008 6.79108e-07 0.0138344 
+GAINS: 0.206506 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0141671
+NEW GAINS: 0.205842 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 316
+total_error = 2188.98
+best_total_error = 2187.36
+max_error = 7.19151
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000298807 6.79108e-07 0.0138344 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0141339
+NEW GAINS: 0.206174 0.000234646 5.12291 
+==========================
+==========================
+completing iteration 317
+total_error = 2187.4
+best_total_error = 2187.36
+max_error = 5.15472
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000298807 6.79108e-07 0.0138344 
+GAINS: 0.206174 0.000234646 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0141339
+NEW GAINS: 0.206174 0.000233288 5.12291 
+==========================
+==========================
+completing iteration 318
+total_error = 2187.44
+best_total_error = 2187.36
+max_error = 7.381
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000298807 6.11197e-07 0.0138344 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0141338
+NEW GAINS: 0.206174 0.000233967 5.13674 
+==========================
+==========================
+completing iteration 319
+total_error = 2188.47
+best_total_error = 2187.36
+max_error = 6.12266
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000298807 6.11197e-07 0.0138344 
+GAINS: 0.206174 0.000233967 5.13674 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0141338
+NEW GAINS: 0.206174 0.000233967 5.10907 
+==========================
+==========================
+completing iteration 320
+total_error = 2188.06
+best_total_error = 2187.36
+max_error = 7.59498
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000298807 6.11197e-07 0.0124509 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0127504
+NEW GAINS: 0.206473 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 321
+total_error = 2187.98
+best_total_error = 2187.36
+max_error = 6.60233
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000298807 6.11197e-07 0.0124509 
+GAINS: 0.206473 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0127504
+NEW GAINS: 0.205875 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 322
+total_error = 2187.73
+best_total_error = 2187.36
+max_error = 7.08518
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000268927 6.11197e-07 0.0124509 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0127205
+NEW GAINS: 0.206174 0.000234578 5.12291 
+==========================
+==========================
+completing iteration 323
+total_error = 2194.22
+best_total_error = 2187.36
+max_error = 7.42127
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000268927 6.11197e-07 0.0124509 
+GAINS: 0.206174 0.000234578 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0127205
+NEW GAINS: 0.206174 0.000233356 5.12291 
+==========================
+==========================
+completing iteration 324
+total_error = 2188.36
+best_total_error = 2187.36
+max_error = 6.95957
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000268927 5.50077e-07 0.0124509 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0127204
+NEW GAINS: 0.206174 0.000233967 5.13536 
+==========================
+==========================
+completing iteration 325
+total_error = 2189.63
+best_total_error = 2187.36
+max_error = 7.69341
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000268927 5.50077e-07 0.0124509 
+GAINS: 0.206174 0.000233967 5.13536 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0127204
+NEW GAINS: 0.206174 0.000233967 5.11046 
+==========================
+==========================
+completing iteration 326
+total_error = 2187.72
+best_total_error = 2187.36
+max_error = 6.51117
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000268927 5.50077e-07 0.0112059 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0114753
+NEW GAINS: 0.206443 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 327
+total_error = 2187.63
+best_total_error = 2187.36
+max_error = 6.62496
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000268927 5.50077e-07 0.0112059 
+GAINS: 0.206443 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0114753
+NEW GAINS: 0.205905 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 328
+total_error = 2188.18
+best_total_error = 2187.36
+max_error = 7.70285
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000242034 5.50077e-07 0.0112059 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0114484
+NEW GAINS: 0.206174 0.000234517 5.12291 
+==========================
+==========================
+completing iteration 329
+total_error = 2188.16
+best_total_error = 2187.36
+max_error = 6.68946
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000242034 5.50077e-07 0.0112059 
+GAINS: 0.206174 0.000234517 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0114484
+NEW GAINS: 0.206174 0.000233417 5.12291 
+==========================
+==========================
+completing iteration 330
+total_error = 2190.6
+best_total_error = 2187.36
+max_error = 7.62257
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000242034 4.9507e-07 0.0112059 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0114484
+NEW GAINS: 0.206174 0.000233967 5.13411 
+==========================
+==========================
+completing iteration 331
+total_error = 2189.1
+best_total_error = 2187.36
+max_error = 7.39894
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000242034 4.9507e-07 0.0112059 
+GAINS: 0.206174 0.000233967 5.13411 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0114484
+NEW GAINS: 0.206174 0.000233967 5.1117 
+==========================
+==========================
+completing iteration 332
+total_error = 2188.31
+best_total_error = 2187.36
+max_error = 5.19111
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000242034 4.9507e-07 0.0100853 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.0103278
+NEW GAINS: 0.206416 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 333
+total_error = 2187.83
+best_total_error = 2187.36
+max_error = 6.242
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+--------------------------
+Diffs: 0.000242034 4.9507e-07 0.0100853 
+GAINS: 0.206416 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+sum_diff = 0.0103278
+NEW GAINS: 0.205932 0.000233967 5.12291 
+==========================
+==========================
+completing iteration 334
+total_error = 2192.47
+best_total_error = 2187.36
+max_error = 7.01561
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 0
+--------------------------
+Diffs: 0.000217831 4.9507e-07 0.0100853 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+sum_diff = 0.0103036
+NEW GAINS: 0.206174 0.000234462 5.12291 
+==========================
+==========================
+completing iteration 335
+total_error = 2189.46
+best_total_error = 2187.36
+max_error = 6.53365
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 1
+--------------------------
+Diffs: 0.000217831 4.9507e-07 0.0100853 
+GAINS: 0.206174 0.000234462 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+sum_diff = 0.0103036
+NEW GAINS: 0.206174 0.000233472 5.12291 
+==========================
+==========================
+completing iteration 336
+total_error = 2188.18
+best_total_error = 2187.36
+max_error = 6.7855
+best_max_error = 5.27208
+current_parameter = 1
+addition_case = 0
+--------------------------
+Diffs: 0.000217831 4.45563e-07 0.0100853 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+sum_diff = 0.0103035
+NEW GAINS: 0.206174 0.000233967 5.13299 
+==========================
+==========================
+completing iteration 337
+total_error = 2188.62
+best_total_error = 2187.36
+max_error = 7.00714
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 1
+--------------------------
+Diffs: 0.000217831 4.45563e-07 0.0100853 
+GAINS: 0.206174 0.000233967 5.13299 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+sum_diff = 0.0103035
+NEW GAINS: 0.206174 0.000233967 5.11282 
+==========================
+==========================
+completing iteration 338
+total_error = 2187.92
+best_total_error = 2187.36
+max_error = 6.49842
+best_max_error = 5.27208
+current_parameter = 2
+addition_case = 0
+--------------------------
+Diffs: 0.000217831 4.45563e-07 0.00907674 
+GAINS: 0.206174 0.000233967 5.12291 
+---------NEW VALS---------
+best_total_error = 2187.36
+best_max_error = 5.27208
+current_parameter = 0
+addition_case = 1
+sum_diff = 0.00929502
+---------TOLERANCE LIMIT REACHED---------
+NEW GAINS: 0.206174 0.000233967 5.12291 
